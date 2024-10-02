@@ -1,0 +1,7 @@
+PyMuPDF
+pdfplumber
+PyPDF2
+reportlab
+spacy
+nltk
+
